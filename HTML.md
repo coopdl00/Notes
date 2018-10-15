@@ -11,5 +11,6 @@ CSS is needed</p>
 <h2 id="semantic-html">Semantic HTML</h2>
 <p>It’s a means to identify your content with User interaction in mind.</p>
 <h2 id="html-forms">HTML Forms</h2>
-<p>First Figure what information you are wanting from the user</p>
+<p>First Figure what information you are wanting from the user<br>
+Radios, checkboxes need labels</p>
 
