@@ -37,4 +37,11 @@ title.removeAttribute(‘name’)</p>
 elem.classList.add(‘party’)<br>
 elem.classList.toggle(‘disco-ball’)<br>
 elem.classList.contains(‘boss’)</p>
+<p>document.createElement(‘p’) ; Creates an element</p>
+<p>To Insert an element<br>
+body.appendChild(newimg)</p>
+<p>Remove or Replace an Element<br>
+.appendChild()<br>
+.replaceChild()<br>
+.removeChild()</p>
 
