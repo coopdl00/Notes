@@ -23,4 +23,7 @@
 <p>ONLY STRINGS<br>
 JSON.stringify(variable) makes an object into a string<br>
 JSON.parse(localStorage.getItem(‘variable’): makes a string into an object</p>
+<p>First get the Item from local Storage<br>
+then push to that array<br>
+setItem back into local storage</p>
 
